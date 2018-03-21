@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Electron Microscope](https://en.wikipedia.org/wiki/Electron_microscope).
 
 ### Crystallography
 
