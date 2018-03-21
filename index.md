@@ -80,6 +80,6 @@ For more details see [Dementia](https://en.wikipedia.org/wiki/Dementia).
 
 Site will use the layout and styles from the Jekyll theme selected in [repository settings](https://github.com/druselabs1/druselabs1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
