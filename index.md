@@ -54,7 +54,7 @@ For more details see [Crystallography](https://en.wikipedia.org/wiki/Crystallogr
 
 ### Dementia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dementia is a broad category of brain diseases that cause a long-term and often gradual decrease in the ability to think and remember that is great enough to affect a person's daily functioning.
 
 ```markdown
 Syntax highlighted code block
@@ -74,7 +74,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Dementia](https://en.wikipedia.org/wiki/Dementia).
 
 ### What's Going On
 
