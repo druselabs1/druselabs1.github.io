@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Electron Microscopy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An electron microscope is a microscope that uses a beam of accelerated electrons as a source of illumination. As the wavelength of an electron can be up to 100,000 times shorter than that of visible light photons, electron microscopes have a higher resolving power than light microscopes.
 
 ```markdown
 Syntax highlighted code block
