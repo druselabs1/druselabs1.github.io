@@ -1,6 +1,6 @@
 ## Welcome to Druse Labs
 
-You can use the [editor on GitHub](https://github.com/druselabs1/druselabs1.github.io/edit/master/index.md) to maintain and preview the content.
+You can use the [editor on GitHub](https://github.com/druselabs1/druselabs1.github.io/edit/master/index.md) to maintain and preview content.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages.
 
@@ -30,7 +30,7 @@ For more details see [Electron Microscope](https://en.wikipedia.org/wiki/Electro
 
 ### Crystallography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Crystallography is the experimental science of determining the arrangement of atoms in crystalline solids.
 
 ```markdown
 Syntax highlighted code block
@@ -50,7 +50,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Crystallography](https://en.wikipedia.org/wiki/Crystallography).
 
 ### Dementia
 
